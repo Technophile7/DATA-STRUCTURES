@@ -98,7 +98,6 @@ int rec_ternary_search(int left, int right, int A[],int target)
 }
 
 /*
- * ternary_search is a template function
  * You could either use it_ternary_search or rec_ternary_search according to preference.
  */
 void ternary_search(int N,int A[],int target)

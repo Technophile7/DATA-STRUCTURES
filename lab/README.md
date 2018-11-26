@@ -10,6 +10,7 @@ Write a menu driven program that implements following operations on a  linear ar
  Delete an element either whose value is given or whose position is given 
  To find the location of a given element
  To display the elements of the linear array 
+![](ss/1.png)
 
 ## Experiment 2
  Write a program to accept N numbers from the user and store them in an array. Then, accept another number from the user and search that using Linear Search. 

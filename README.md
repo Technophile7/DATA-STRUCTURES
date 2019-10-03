@@ -14,5 +14,5 @@ _IMPLIMENTATION OF DS PROGRAMMES_
   - Searches
   - Sorting
   - Hashing
-  - Graphs
+  - Graphs.
   
